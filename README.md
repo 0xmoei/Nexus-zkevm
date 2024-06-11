@@ -1,4 +1,4 @@
-<img width="3300" alt="nexus_docs-header" src="https://github.com/0xmoei/Nexus-zkevm/assets/90371338/7264cc44-1e13-48af-bbeb-afddc21a1ab2"><h1 align="center"># The Nexus zkVM</h1>
+<h1 align="center"># The Nexus zkVM</h1>
 ![Screenshot_1](https://github.com/0xmoei/Nexus-zkevm/assets/90371338/d81728cd-31c7-4178-bec5-9ea43a88573c)
 
 
