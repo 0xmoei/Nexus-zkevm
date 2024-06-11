@@ -41,11 +41,11 @@ cargo nexus --help
 cargo nexus new nexus-project
 ```
 2- Go to Directory
-```
+```console
 cd nexus-project
 ```
 3- Edit `main.rs`
-```
+```console
 # Open edit menu
 nano src/main.rs
 
